@@ -1,8 +1,8 @@
-## Olá, eu sou o Elderon! (Hello, I am Elderon!)
+## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 Hoje trabalho como Analista de TI na Softplan / Today I work as an IT Analyst at Softplan
-- 🌱 Estudando: HTML, CSS, Javascript, PHP e Python / Studying: HTML, CSS, Javascript, PHP and Python
-- 👯 Em busca de criar meu próprio negócio / Looking to create my own business
+- 🔭 Today I work as an IT Analyst at Softplan (Hoje trabalho como Analista de TI na Softplan)
+- 🌱 Studying: HTML, CSS, Javascript, PHP and Python (Estudando: HTML, CSS, Javascript, PHP e Python)
+- 👯 Looking to create my own business (Em busca de criar meu próprio negócio)
 
 <div align="center">
   <a href="https://github.com/elderon89">

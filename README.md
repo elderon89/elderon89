@@ -31,6 +31,6 @@
   <a href = "mailto:elderonmp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://allmylinks.com/elderon" target="_blank"><img src="https://img.shields.io/badge/Allmylinks-%2FElderon-yellowgreen" target="_blank"></a>
   
-  <!--- ![Snake animation](https://github.com/elderon89/elderon89/blob/output/github-contribution-grid-snake.svg) -->
+  ![Snake animation](https://github.com/elderon89/elderon89/blob/output/github-contribution-grid-snake.svg)
   
 </div>

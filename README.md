@@ -17,7 +17,7 @@
   <img align="center" alt="Elder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elder-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elder-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Elder-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/46628088?u=c61bb62b403995da25c5194f381c9c120798da62&v=4?width=676&height=676">
+  <img align="right" alt="Elder-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDEkLqcBPF07vikNm7nM4wbWNNeOP14Dqiw&usqp=CAU?width=676&height=676">
 </div>
   
 ##

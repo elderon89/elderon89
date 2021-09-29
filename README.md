@@ -1,8 +1,8 @@
-## Olá, eu sou o Elder Eron (mas pode me chamar de Elderon!)
+## Olá, eu sou o Elderon! (Hello, I am Elderon!)
 
-- 🔭 Hoje trabalho como Analista de TI na Softplan
-- 🌱 Estudando Frontend (HTML, CSS e Javascript), além de PHP e Python
-- 👯 Em busca de criar meu próprio negócio em sociedade
+- 🔭 Hoje trabalho como Analista de TI na Softplan / Today I work as an IT Analyst at Softplan
+- 🌱 Estudando: HTML, CSS, Javascript, PHP e Python / Studying: HTML, CSS, Javascript, PHP and Python
+- 👯 Em busca de criar meu próprio negócio / Looking to create my own business
 
 <div align="center">
   <a href="https://github.com/elderon89">

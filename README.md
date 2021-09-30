@@ -17,6 +17,8 @@
   <img align="center" alt="Elder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Elder-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Elder-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Sheila-PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+  <img align="center" alt="Elder-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Elder-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDEkLqcBPF07vikNm7nM4wbWNNeOP14Dqiw&usqp=CAU?width=676&height=676">
 </div>
   
@@ -25,11 +27,11 @@
 <div>
 
  <a href="https://www.linkedin.com/in/elderon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/elderon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/elderon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/elderontv" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCGqyvFDmVsDQalDOOuVrzWw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:elderonmp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://allmylinks.com/elderon" target="_blank"><img src="https://img.shields.io/badge/Allmylinks-%2FElderon-yellowgreen" target="_blank"></a>
+  <a href="https://www.allmylinks.com/elderon" target="_blank"><img src="https://img.shields.io/badge/Allmylinks-%2FElderon-yellowgreen" target="_blank"></a>
   
   ![Snake animation](https://github.com/elderon89/elderon89/blob/output/github-contribution-grid-snake.svg)
   

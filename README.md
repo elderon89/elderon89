@@ -3,6 +3,7 @@
 - 🔭 Today I work as an IT Analyst at Softplan (Hoje trabalho como Analista de TI na Softplan)
 - 🌱 Studying: HTML, CSS, Javascript, PHP and Python (Estudando: HTML, CSS, Javascript, PHP e Python)
 - 👯 Looking to create my own business (Em busca de criar meu próprio negócio)
+- 😊 Pronouns: he/him (Pronomes: ele/dele)
 
 <div align="center">
   <a href="https://github.com/elderon89">

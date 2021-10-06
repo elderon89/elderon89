@@ -20,7 +20,7 @@
   <img align="center" alt="Elder-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sheila-PyCharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Elder-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Elder-pic" height="150" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlDEkLqcBPF07vikNm7nM4wbWNNeOP14Dqiw&usqp=CAU?width=676&height=676">
+  <img align="right" alt="Elder-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 </div>
   
 ##

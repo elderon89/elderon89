@@ -1,6 +1,6 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 Today I work as Business Analyst at NVPC (Hoje trabalho como Analista de negócios na Novovarejo.com)
+- 🔭 Today I work as Business Analyst at NVPC (Hoje trabalho como Analista de negócios na NVPC.company)
 - 🌱 Studying: HTML, CSS, Javascript, PHP and Python (Estudando: HTML, CSS, Javascript, PHP e Python)
 - 👯 Looking to create my own business (Em busca de criar meu próprio negócio)
 - 😊 Pronouns: He/him (Pronomes: Ele/dele)

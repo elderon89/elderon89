@@ -1,8 +1,8 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 I work as Business Analyst / Product Owner / Associate Product Manager / Product Management (Hoje trabalho como Analista de Negócios / Product Owner / Associate Product Manager / Product Management)
-- 🌱 Studying: HTML, CSS, Javascript, PHP and Python (Estudando: HTML, CSS, Javascript, PHP e Python)
-- 👯 Looking to create my own business (Em busca de criar meu próprio negócio)
+- 🔭 I work as Business Analyst / Product Owner / Associate Product Manager / Product Management
+- 🌱 Studying: HTML, CSS, Javascript, PHP and Python
+- 👯 Looking to create my own business
 
 <div align="center">
   <a href="https://github.com/elderon89">

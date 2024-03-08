@@ -1,6 +1,6 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 I work as Business Analyst / Product Owner / Associate Product Manager / Product Management
+- 🔭 I work as Product Owner | Product Manager | Scrum Master | Business Analyst
 - 🌱 Studying: HTML, CSS, Javascript, PHP and specially Python
 
 <div align="center">

@@ -1,7 +1,7 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
 - 🔭 I work as Product Manager | Product Owner | Product Management | Agile Methodologies | Scrum | Kanban
-- 🌱 Studying: HTML, CSS, Javascript, PHP and specially Python
+- 🌱 Studying HTML, CSS, Javascript, PHP, and specially Python + SQL
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Elder-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

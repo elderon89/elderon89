@@ -1,6 +1,6 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 I work as Product Owner | Project Management | Program Manager | PMO | Agile | Scrum Master
+- 🔭 I work as Product Manager | Product Owner | Product Management | Agile Methodologies | Scrum | Kanban
 - 🌱 Studying: HTML, CSS, Javascript, PHP and specially Python
 
 <div style="display: inline_block"><br>

@@ -1,6 +1,6 @@
 ## Hello, I am Elderon! (Olá, eu sou o Elderon!)
 
-- 🔭 Working as Product Owner | Product Manager | Agile Leader | Scrum Master | Digital Transformation & Agile Product Management
+- 🔭 Working as Product Owner | Product Manager | Digital Transformation Specialist | Focused on Innovation
 - 🌱 Studying HTML, CSS, Javascript, PHP, and specially Python and SQL
 
 <div style="display: inline_block"><br>
